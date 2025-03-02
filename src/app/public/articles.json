@@ -1,0 +1,142 @@
+[
+    {
+        "id": "a1b2c3",
+        "title": "Gebrauchtes Lego Set",
+        "description": "Ein tolles Lego Set für Kinder ab 6 Jahren. Vollständig und in gutem Zustand.",
+        "price": 15.99,
+        "image": "https://loremflickr.com/320/240/lego"
+    },
+    {
+        "id": "d4e5f6",
+        "title": "Puppenhaus",
+        "description": "Ein schönes Puppenhaus mit Möbeln. Ideal für kleine Puppenliebhaber.",
+        "price": 25.50,
+        "image": "https://loremflickr.com/320/240/dollhouse"
+    },
+    {
+        "id": "g7h8i9",
+        "title": "Holzeisenbahn",
+        "description": "Eine robuste Holzeisenbahn mit Zubehör. Perfekt für Kleinkinder.",
+        "price": 12.00,
+        "image": "https://loremflickr.com/320/240/train"
+    },
+    {
+        "id": "j1k2l3",
+        "title": "Teddybär",
+        "description": "Ein kuscheliger Teddybär in gutem Zustand. Ideal zum Schlafen und Spielen.",
+        "price": 8.99,
+        "image": "https://loremflickr.com/320/240/teddybear"
+    },
+    {
+        "id": "m4n5o6",
+        "title": "Playmobil Ritterburg",
+        "description": "Eine detailreiche Playmobil Ritterburg mit Figuren und Zubehör.",
+        "price": 30.00,
+        "image": "https://loremflickr.com/320/240/playmobil"
+    },
+    {
+        "id": "p7q8r9",
+        "title": "Bobby Car",
+        "description": "Ein klassisches Bobby Car in rot. Leichte Gebrauchsspuren, aber voll funktionsfähig.",
+        "price": 20.00,
+        "image": "https://loremflickr.com/320/240/bobbycar"
+    },
+    {
+        "id": "s1t2u3",
+        "title": "Puzzle 100 Teile",
+        "description": "Ein Puzzle mit 100 Teilen für Kinder ab 5 Jahren. Motiv: Tiere im Wald.",
+        "price": 5.99,
+        "image": "https://loremflickr.com/320/240/puzzle"
+    },
+    {
+        "id": "v4w5x6",
+        "title": "Barbie Puppe",
+        "description": "Eine Barbie Puppe mit Zubehör. Gut erhalten und sauber.",
+        "price": 10.50,
+        "image": "https://loremflickr.com/320/240/barbie"
+    },
+    {
+        "id": "y7z8a9",
+        "title": "Kinderfahrrad",
+        "description": "Ein gebrauchtes Kinderfahrrad in blau. Mit Stützrädern und Klingel.",
+        "price": 35.00,
+        "image": "https://loremflickr.com/320/240/bicycle"
+    },
+    {
+        "id": "b1c2d3",
+        "title": "Bauklötze Set",
+        "description": "Ein Set mit 50 Holzbauklötzen in verschiedenen Farben und Formen.",
+        "price": 9.99,
+        "image": "https://loremflickr.com/320/240/blocks"
+    },
+    {
+        "id": "e4f5g6",
+        "title": "Kuscheltier Hund",
+        "description": "Ein weiches Kuscheltier in Form eines Hundes. Ideal für Kleinkinder.",
+        "price": 7.50,
+        "image": "https://loremflickr.com/320/240/plushdog"
+    },
+    {
+        "id": "h7i8j9",
+        "title": "Kinderküche",
+        "description": "Eine kleine Spielzeugküche mit Zubehör. Perfekt für kleine Köche.",
+        "price": 40.00,
+        "image": "https://loremflickr.com/320/240/kitchen"
+    },
+    {
+        "id": "k1l2m3",
+        "title": "Matchbox Autos",
+        "description": "Eine Sammlung von 10 Matchbox Autos in gutem Zustand.",
+        "price": 12.99,
+        "image": "https://loremflickr.com/320/240/matchbox"
+    },
+    {
+        "id": "n4o5p6",
+        "title": "Kinderbuch",
+        "description": "Ein gebrauchtes Kinderbuch mit schönen Illustrationen. Titel: 'Die kleine Raupe Nimmersatt'.",
+        "price": 3.50,
+        "image": "https://loremflickr.com/320/240/book"
+    },
+    {
+        "id": "q7r8s9",
+        "title": "Springseil",
+        "description": "Ein robustes Springseil in rot. Ideal für Outdoor-Spiele.",
+        "price": 2.99,
+        "image": "https://loremflickr.com/320/240/jumprope"
+    },
+    {
+        "id": "t1u2v3",
+        "title": "Playmobil Polizeistation",
+        "description": "Eine Playmobil Polizeistation mit Figuren und Zubehör.",
+        "price": 28.00,
+        "image": "https://loremflickr.com/320/240/playmobilpolice"
+    },
+    {
+        "id": "w4x5y6",
+        "title": "Holzpferd",
+        "description": "Ein schönes Holzpferd auf Rollen. Perfekt für kleine Reiter.",
+        "price": 18.50,
+        "image": "https://loremflickr.com/320/240/horse"
+    },
+    {
+        "id": "z7a8b9",
+        "title": "Kinderroller",
+        "description": "Ein gebrauchter Kinderroller in grün. Leichte Gebrauchsspuren.",
+        "price": 15.00,
+        "image": "https://loremflickr.com/320/240/scooter"
+    },
+    {
+        "id": "c1d2e3",
+        "title": "Brettspiel 'Mensch ärgere Dich nicht'",
+        "description": "Ein klassisches Brettspiel in gutem Zustand. Vollständig und spielbereit.",
+        "price": 6.99,
+        "image": "https://loremflickr.com/320/240/boardgame"
+    },
+    {
+        "id": "f4g5h6",
+        "title": "Kuscheltier Katze",
+        "description": "Ein süßes Kuscheltier in Form einer Katze. Weich und kuschelig.",
+        "price": 6.50,
+        "image": "https://loremflickr.com/320/240/plushcat"
+    }
+]
