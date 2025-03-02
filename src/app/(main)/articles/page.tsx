@@ -1,5 +1,5 @@
 import { getLatestArticles } from "app/lib/data/articles";
-import ArticleCard from "./articel-card";
+import ArticleCard from "../../components/articles/articel-card";
 
 
 export default async function Page() {

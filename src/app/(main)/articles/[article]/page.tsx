@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { getArticle } from "app/lib/data/articles";
-import ArticleAngebotForm from "app/components/ui/article-angebot-form";
+import ArticleAngebotForm from "app/components/articles/article-angebot-form";
 
 export default async function Page({
   params,

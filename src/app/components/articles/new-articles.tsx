@@ -1,5 +1,5 @@
 import { getLatestArticles } from "app/lib/data/articles";
-import ArticleFeaturedCard from "./ui/article-featured-card";
+import ArticleFeaturedCard from "./article-featured-card";
 
 export default async function NewArticles({ count, title }: { count: number, title: string; }) {
     const articles = await getLatestArticles(count);

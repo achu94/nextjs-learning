@@ -1,4 +1,4 @@
-import NewArticles from "app/components/new-articles";
+import NewArticles from "app/components/articles/new-articles";
 
 export default async function Home() {
 
